@@ -1,0 +1,5 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,         // if you would like to enable blade format
+}

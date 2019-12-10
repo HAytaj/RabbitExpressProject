@@ -1,0 +1,16 @@
+body{
+  background-color: #f2f2f2f2;
+}
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #eaeaea;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.review-star{
+  color:#ffe234;
+}
